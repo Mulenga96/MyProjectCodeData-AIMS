@@ -1,1 +1,2 @@
-# Mulenga_AIMS_Research_Code_Base-An_analysis_of_Ulimisana_Optimisation_for_Malaria_Control
+## Code Repository for Mulenga Chipoka's AIMS Master's Research Project
+### Title: An analysis of Ulimisana Optimisation for Malaria Control

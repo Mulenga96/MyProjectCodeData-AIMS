@@ -1,2 +1,3 @@
-## Code Repository for Mulenga Chipoka's AIMS Master's Research Project
-### Title: An analysis of Ulimisana Optimisation for Malaria Control
+### AIMS South Africa Master's Research Project Code 202122
+#### Title: An analysis of Ulimisana Optimisation for Malaria Control
+Author: Mulenga Chipoka
